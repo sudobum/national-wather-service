@@ -1,2 +1,2 @@
-# national-wather-service
-national-wather-service
+# national-weather-service
+national-weather-service
